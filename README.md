@@ -33,7 +33,6 @@
       data-driven teams that value curiosity and heart.
     </p>
     <p style="font-size: 1.1rem; line-height: 1.6; margin-top: 1rem;">
-<p align="center">
       Let’s connect. I’m always open to feedback, collaboration and good conversation.
     </p>
   </div>
