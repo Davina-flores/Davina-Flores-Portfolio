@@ -1,13 +1,12 @@
 # Davina-Flores-Portfolio
 <section id="projects">
-  <div style="max-width: 800px; margin: 0 auto; padding: 2rem;">
-    <ul style="font-size: 1.1rem; line-height: 1.8; padding-left: 0;">
-      <li style="list-style: none;">⭐ <strong>SQL Project</strong> – Coming Soon</li>
-      <li style="list-style: none;">⭐ <strong>Capstone Project</strong> – Coming Soon</li>
-      <li style="list-style: none;">⭐ <strong>Excel Project</strong> – Coming Soon</li>
-    </ul>
+  <div style="max-width: 800px; margin: 0 auto; padding: 2rem; font-size: 1.1rem; line-height: 1.8;">
+    <p>⭐ <strong>SQL Project</strong> – Coming Soon</p>
+    <p>⭐ <strong>Capstone Project</strong> – Coming Soon</p>
+    <p>⭐ <strong>Excel Project</strong> – Coming Soon</p>
   </div>
 </section>
+
 
 #  About Me
 <section id="about">
