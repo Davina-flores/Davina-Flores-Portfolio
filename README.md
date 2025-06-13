@@ -9,7 +9,7 @@
 <p align="center">  <p>⭐ <strong>Excel Project</strong> – Coming Soon</p>
   
 
-### **About Me**
+About Me
 
 <section id="about">
   <div style="max-width: 800px; margin: 0 auto; padding: 2rem;">
