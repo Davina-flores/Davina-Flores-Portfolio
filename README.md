@@ -5,7 +5,7 @@ Excel Project "Coming Soon"
 #  About Me
 <section id="about">
   <div style="max-width: 800px; margin: 0 auto; padding: 2rem;">
-    <h2 style="font-size: 2rem; margin-bottom: 1rem;">👋 About Me</h2>
+    
     <p style="font-size: 1.1rem; line-height: 1.6;">
       Hi, I’m <strong>Davina</strong>, a curious, people-focused problem solver with a growing passion for data. 
       After years of working in fast-paced customer service and operations roles (most recently at Enterprise Truck Rental), 
