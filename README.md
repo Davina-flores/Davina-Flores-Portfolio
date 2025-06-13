@@ -23,7 +23,7 @@
       I enjoy digging into messy data, spotting patterns, and telling stories with insights that drive better decisions.
     </p>
     <p style="font-size: 1.1rem; line-height: 1.6; margin-top: 1rem;">
-      With a degree from <strong>Cal State San Bernardino</strong> and a reputation for being adaptable, 
+      With a degree from <strong>California State University, San Bernardino</strong> and a reputation for being adaptable, 
       collaborative, and always willing to learn, I’m excited to grow in this field and contribute to 
       data-driven teams that value curiosity and heart.
     </p>
