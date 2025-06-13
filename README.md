@@ -2,7 +2,7 @@
 SQL Project "Coming Soon"
 Capstone Project "Coming Soon"
 Excel Project "Coming Soon"
-# H1 About Me
+#  About Me
 <section id="about">
   <div style="max-width: 800px; margin: 0 auto; padding: 2rem;">
     <h2 style="font-size: 2rem; margin-bottom: 1rem;">👋 About Me</h2>
