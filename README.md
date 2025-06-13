@@ -32,4 +32,6 @@
     </p>
   </div>
 </section>
+I'm new to data analytics and currently diving into SQL, Excel, and Python. I love solving puzzles, whether it's data-driven or people-based!
 
+📍 Connect with me on [LinkedIn](https://www.linkedin.com/in/davina-flores-b90719132)
