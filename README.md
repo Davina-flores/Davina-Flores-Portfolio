@@ -7,11 +7,10 @@
 <p align="center"> <p>⭐ <strong>Capstone Project</strong> – Coming Soon</p>
   
 <p align="center">  <p>⭐ <strong>Excel Project</strong> – Coming Soon</p>
-  </div>
-</section>
+  
 
 
-#  About Me
+About Me
 <section id="about">
   <div style="max-width: 800px; margin: 0 auto; padding: 2rem;">
     <p style="font-size: 1.1rem; line-height: 1.6;">
