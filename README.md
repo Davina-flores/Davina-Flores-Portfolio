@@ -34,9 +34,7 @@
     <p style="font-size: 1.1rem; line-height: 1.6; margin-top: 1rem;">
       Let’s connect. I’m always open to feedback, collaboration and good conversation.
     </p>
-  </div>
-</section>
-
+ 
 
   📍 <a href="https://www.linkedin.com/in/davina-flores-b90719132">Connect with me on LinkedIn</a><br>
   ✉️ <a href="mailto:davinaflores94@gmail.com">Email Me</a>
