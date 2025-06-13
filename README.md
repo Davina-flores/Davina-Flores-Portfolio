@@ -28,10 +28,8 @@
       data-driven teams that value curiosity and heart.
     </p>
     <p style="font-size: 1.1rem; line-height: 1.6; margin-top: 1rem;">
-      Let’s connect. I’m always open to feedback, collaboration, and good coffee ☕📊
+      Let’s connect. I’m always open to feedback, collaboration and good conversation.
     </p>
   </div>
 </section>
-I'm new to data analytics and currently diving into SQL, Excel, and Python. I love solving puzzles, whether it's data-driven or people-based!
-
-📍 Connect with me on [LinkedIn](https://www.linkedin.com/in/davina-flores-b90719132)
+📍 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/davina-flores-b90719132)
