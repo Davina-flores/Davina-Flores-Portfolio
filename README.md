@@ -34,3 +34,4 @@
 </section>
 
 📍 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/davina-flores-b90719132)
+✉️ [Email Me](mailto:davinaflores94@gmail.com)
