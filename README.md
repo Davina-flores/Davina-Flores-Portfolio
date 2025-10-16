@@ -1,13 +1,8 @@
 # Davina-Flores-Portfolio
-<section id="projects">
-  <div style="max-width: 800px; margin: 0 auto; padding: 2rem; font-size: 1.1rem; line-height: 1.8;">
-   
-<p align="center"> <p>⭐ <strong>SQL Project</strong> – Coming Soon</p>
-   
-<p align="center"> <p>⭐ <strong>Capstone Project</strong> [Bellabeat Case Study](https://docs.google.com/presentation/d/19hBAB09j8HN1pARXp4sNF8EbDE8t5nNj1OJ97Ux8J2c/edit?usp=sharing)
+⭐ **SQL Project** – Coming Soon  
+⭐ **Capstone Project:** [Bellabeat Case Study](https://docs.google.com/presentation/d/19hBAB09j8HN1pARXp4sNF8EbDE8t5nNj1OJ97Ux8J2c/edit?usp=sharing)  
+⭐ **Excel Project** – Coming Soon
 
-  
-<p align="center">  <p>⭐ <strong>Excel Project</strong> – Coming Soon</p>
   
 
 # About Me
