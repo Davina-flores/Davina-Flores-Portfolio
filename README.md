@@ -4,7 +4,10 @@
    
 <p align="center"> <p>⭐ <strong>SQL Project</strong> – Coming Soon</p>
    
-<p align="center"> <p>⭐ <strong>Capstone Project</strong> – Coming Soon</p>
+<p align="center"> <p>⭐ <strong>Capstone Project</strong> ## Bellabeat Case Study
+
+[View the Bellabeat Case Study Slides](https://docs.google.com/presentation/d/19hBAB09j8HN1pARXp4sNF8EbDE8t5nNj1OJ97Ux8J2c/edit?usp=sharing)
+
   
 <p align="center">  <p>⭐ <strong>Excel Project</strong> – Coming Soon</p>
   
